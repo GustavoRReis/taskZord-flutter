@@ -1,0 +1,4 @@
+#Wed Sep 06 23:25:06 BRT 2023
+base.0=/home/gustavo/teste em flutter/taskzord/taskzord/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
